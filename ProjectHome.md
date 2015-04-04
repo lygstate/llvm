@@ -1,0 +1,1 @@
+This project provides mirrors of some downloadable files for the LLVM project. The primary website and all information is at http://llvm.org
